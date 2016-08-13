@@ -1,0 +1,9 @@
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\bin\Debug\CG_lab3.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\bin\Debug\CG_lab3.exe.config
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.MainForm.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.Properties.Resources.resources
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csproj.GenerateResource.Cache
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.exe
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\bin\Debug\CG_lab3.pdb
+E:\MindOfMine\OneDrive\Documents\GENERAL\kpi\ComputerGraphics\Solutions\3\CG_lab3\CG_lab3\obj\Debug\CG_lab3.csprojResolveAssemblyReference.cache
